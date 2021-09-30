@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Quang Tran 👋
 
 <!--
 **QuangTran304/QuangTran304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
