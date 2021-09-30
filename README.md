@@ -1,13 +1,13 @@
-<img src="Hello world.jpg" width="800" />
+<img src="Hello world.jpg" width="70%" />
 
-### My name is Quang Tran 👋
+### My name is Quang 👋
 
-- 🔭 I’m currently exploring different types of Database
-- 🌱 I’m currently learning Software Architecture
-- 👯 I’m looking to collaborate on building a project-based learning platform
-- 💬 Ask me anything realated to React or Arduino
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/quang-oblue/)
-- ⚡ What I love to learn more: Microservices, Embedded system programming
+- 🔭 &nbsp; I’m currently exploring different types of Database
+- 🏗 &nbsp; I’m also learning about Software Architecture
+- 🧑‍🚀 &nbsp; I’m looking to collaborate on building a project-based learning platform
+- 💬 &nbsp; Ask me anything realated to React or Arduino
+- 📫 &nbsp; Reach me via [LinkedIn](https://www.linkedin.com/in/quang-oblue/)
+- 😻 &nbsp; I love to learn more about Microservices & Embedded System Programming
 
 ### My tech stack
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
