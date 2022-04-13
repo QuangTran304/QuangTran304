@@ -5,9 +5,9 @@
 <br />
 
 <div align="center">
-🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics" <br/>
-🏗 &nbsp; I’m planning to build an app for university students using my school's API <br/>
-👉 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a> <br/>
+🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics". <br/>
+🏗 &nbsp; I’m planning to build an app for university students using my school's API. <br/>
+👉 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> <br/><br/><br/>
 
 ## Some apps I'm proud of:
