@@ -1,4 +1,4 @@
-<img src="./Animated%20cover.gif" />
+<img src="./animatedCover.gif" />
 
 <br />
 <h1 align="center"> Hello, I'm Quang 👋 </h1>
