@@ -4,9 +4,24 @@
 <h1 align="center"> Hello, I'm Quang 👋 </h1>
 <br />
 
-- 🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics"
-- 🏗 &nbsp; I’m planning to build an app for university students using my school's API
-- 📫 &nbsp; Connect with me via [LinkedIn](https://www.linkedin.com/in/quang-oblue/)
+<div align="center">
+🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics" <br/>
+🏗 &nbsp; I’m planning to build an app for university students using my school's API <br/>
+📫 &nbsp; Connect with me via [LinkedIn](https://www.linkedin.com/in/quang-oblue/) <br/>
+</div> <br/><br/><br/>
+
+## Some apps I'm proud of:
+### Projectify
+<img src="./projectify.gif" />
+<br/>
+
+### Covid tracker Admin
+<img src="./Covid-tracker-admin.gif" />
+<br/>
+
+### Covid tracker Client
+<img src="./Covid-tracker-client.gif" />
+<br/>
 
 ### My tech stack
 <img align="left" alt="C programming" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
