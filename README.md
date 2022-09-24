@@ -10,18 +10,6 @@
 👉 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> <br/><br/><br/>
 
-## Some apps I'm proud of:
-### Projectify
-<img src="./projectify.gif" />
-<br/>
-
-### Covid tracker Admin
-<img src="./Covid-tracker-admin.gif" />
-<br/>
-
-### Covid tracker Client
-<img src="./Covid-tracker-client.gif" />
-<br/>
 
 ### My tech stack
 <img align="left" alt="C programming" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
