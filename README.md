@@ -1,10 +1,10 @@
 <img src="./animatedCover.gif" />
 
 <br />
-<h1 align="center"> Hello, I'm Quang 👋 </h1>
+<h1 align="left"> Hello, I'm Quang 👋 </h1>
 <br />
 
-<div align="center">
+<div align="left">
 🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics". <br/>
 🏗 &nbsp; I’m planning to build an app for university students using my school's API. <br/>
 👉 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
