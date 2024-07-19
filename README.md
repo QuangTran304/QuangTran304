@@ -24,9 +24,7 @@
                                                                                       
                                                                                       
 
-<br />
-<h1 align="left"> Hello, I'm Quang 👋 </h1>
-<br />
+
 
 <div align="left">
 🔭 &nbsp; I’m currently doing my own research on "paper-mechatronics". <br/>
