@@ -11,7 +11,7 @@ if (isFirstTimeHere) {
 <div align="left">
 🔭 &nbsp; I’m currently exploring different libraries & frameworks in the React/Next.js ecosystem. <br/>
 🏗 &nbsp; I’m building a visual dictionary to help me learn foreign languages better. <br/>
-🪪 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
+🪪 &nbsp; If you think we share something in common, connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
 
 <br/><br/>
