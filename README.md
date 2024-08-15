@@ -9,13 +9,12 @@ if (isFirstTimeHere) {
 ```
 
 <div align="left">
-🔭 &nbsp; I’m currently exploring different libraries & frameworks in the React/Next.js ecosystem. <br/>
-🏗 &nbsp; I’m building a visual dictionary to help me learn foreign languages better. <br/>
-🤝 &nbsp; If you think we share something in common, connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
+👷‍♂️ &nbsp; I’m a full-stack developer based in Canada.<br/>
+🏗️ &nbsp; I’m currently building a visual dictionary.<br/>
+🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
 
 <br/><br/>
-
 
 ### Personal tech stack
 ```
@@ -87,4 +86,15 @@ AWS
 
 ```
 Docker
+```
+
+<br />
+
+### Life stack
+```
+👩 wife
+```
+
+```
+👧 daughter
 ```
