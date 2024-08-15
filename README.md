@@ -1,32 +1,17 @@
-```                                                                                      
-                                                                           
-                                                                                      
-                                _    _      _ _                                       
-                               | |  | |    | | |                                      
-                               | |__| | ___| | | ___                                  
-                               |  __  |/ _ \ | |/ _ \                                 
-                               | |  | |  __/ | | (_) |                                
-                               |_|  |_|\___|_|_|\___( )                               
-                                                    |/                                
-                                                                                      
-                  _____ _              ____                                           
-                 |_   _( )            / __ \                                          
-                   | | |/ _ __ ___   | |  | |_   _  __ _ _ __   __ _                  
-                   | |   | '_ ` _ \  | |  | | | | |/ _` | '_ \ / _` |                 
-                  _| |_  | | | | | | | |__| | |_| | (_| | | | | (_| |                 
-                 |_____| |_| |_| |_|  \___\_\\__,_|\__,_|_| |_|\__, |                 
-                                                                __/ |                 
-                                                               |___/                  
-                                                                      
-                                                                                      
-```
+<h1>Hello World!</h1>
 
-<br/>
+```tsx
+if (isFirstTimeHere) {
+  return <Hi>👋 My name is Quang</Hi>;
+} else {
+  return <Smile>Have a great day!</Smile>;
+}
+```
 
 <div align="left">
 🔭 &nbsp; I’m currently exploring different libraries & frameworks in the React/Next.js ecosystem. <br/>
 🏗 &nbsp; I’m building a visual dictionary to help me learn foreign languages better. <br/>
-👋 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
+🪪 &nbsp; Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
 
 <br/><br/>
@@ -47,6 +32,10 @@ Next.js
 
 ```
 Tailwind CSS + Shadcn ui
+```
+
+```
+React Native + Expo
 ```
 
 ```
