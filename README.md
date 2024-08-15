@@ -38,6 +38,10 @@ Typescript
 ```
 
 ```
+Bun
+```
+
+```
 Next.js
 ```
 
