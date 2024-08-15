@@ -50,6 +50,8 @@ Drizzle ORM
 Docker + Coolify
 ```
 
+<br />
+
 ### Work tech stack
 ```
 Typescript
@@ -85,21 +87,4 @@ AWS
 
 ```
 Docker
-```
-
-### Design tools
-```
-Figma
-```
-
-```
-Sketch
-```
-
-```
-Zeplin
-```
-
-```
-Lunacy
 ```
