@@ -90,11 +90,23 @@ Docker
 
 <br />
 
-### Life stack
+### Baas platforms
 ```
-👩 wife
+Firebase
 ```
 
 ```
-👧 daughter
+Appwrite
+```
+
+```
+Directus
+```
+
+```
+Supabase (learning)
+```
+
+```
+Payload (learning)
 ```
