@@ -7,7 +7,9 @@ if (isFirstTimeHere) {
   return <Smile>Have a great day!</Smile>;
 }
 ```
-<br/><br/>
+<br />
+
+---
 
 <div align="left">
 👷‍♂️ &nbsp; I’m a full-stack developer based in Canada.<br/>
@@ -16,7 +18,11 @@ if (isFirstTimeHere) {
 🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
 
-<br/><br/>
+
+---
+
+<br />
+
 
 ### 👨‍💻 Personal tech stack
 ```
