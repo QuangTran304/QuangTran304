@@ -1,8 +1,8 @@
-<h1>Hello! &nbsp; Bonjour! &nbsp; Xin chào!</h1>
+<h1>👋 &nbsp; Hello! &nbsp; Bonjour! &nbsp; Xin chào!</h1>
 
 ```tsx
 if (isFirstTimeHere) {
-  return <Hi>👋 My name is Quang</Hi>;
+  return <Hi>My name is Quang</Hi>;
 } else {
   return <Smile>Have a great day!</Smile>;
 }
@@ -17,7 +17,7 @@ if (isFirstTimeHere) {
 
 <br/><br/>
 
-### Personal tech stack
+### 👨‍💻 Personal tech stack
 ```
 Typescript
 ```
@@ -56,7 +56,7 @@ Docker + Coolify
 
 <br />
 
-### Work tech stack
+### 🏢 Work tech stack
 ```
 Typescript
 ```
@@ -95,7 +95,7 @@ Docker
 
 <br />
 
-### Baas platforms
+### 🛳️ Baas platforms
 ```
 Firebase
 ```
@@ -112,3 +112,16 @@ Directus
 Supabase (learning)
 ```
 
+<br />
+
+### ✍️ Write
+```
+Typescript | C++
+```
+
+<br />
+
+### 🗣️ Speak
+```
+English | French | Vietnamese
+```
