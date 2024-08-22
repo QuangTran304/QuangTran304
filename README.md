@@ -10,7 +10,8 @@ if (isFirstTimeHere) {
 
 <div align="left">
 👷‍♂️ &nbsp; I’m a full-stack developer based in Canada.<br/>
-🏗️ &nbsp; I’m currently building a visual dictionary.<br/>
+🏗️ &nbsp; Currently building a visual dictionary in my free time.<br/>
+📖 &nbsp; Learning about Prisma, Supabase, and Stripe.<br />
 🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
 
