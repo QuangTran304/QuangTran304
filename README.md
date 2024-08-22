@@ -1,4 +1,4 @@
-<h1>Hello! &nbsp; Bonjour! &nbsp; Xin chào!</h1>
+<h1>Hello! Bonjour! Xin chào!</h1>
 
 ```tsx
 if (isFirstTimeHere) {
@@ -12,7 +12,7 @@ if (isFirstTimeHere) {
 ---
 
 <div align="left">
-👷‍♂️ &nbsp; I’m a full-stack developer based in Canada.<br/>
+👷‍♂️ &nbsp; I’m a software engineer based in Canada.<br/>
 🏗️ &nbsp; Currently building a visual dictionary in my free time.<br/>
 📖 &nbsp; Learning about Prisma, Supabase, and Stripe.<br />
 🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
