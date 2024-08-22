@@ -7,6 +7,7 @@ if (isFirstTimeHere) {
   return <Smile>Have a great day!</Smile>;
 }
 ```
+<br/><br/>
 
 <div align="left">
 👷‍♂️ &nbsp; I’m a full-stack developer based in Canada.<br/>
