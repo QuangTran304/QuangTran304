@@ -30,6 +30,10 @@ Next.js
 ```
 
 ```
+Auth.js
+```
+
+```
 Tailwind CSS + Shadcn ui
 ```
 
@@ -69,11 +73,11 @@ Vite
 ```
 
 ```
-Nest.js
+Storybook
 ```
 
 ```
-Storybook
+Nest.js
 ```
 
 ```
@@ -107,6 +111,3 @@ Directus
 Supabase (learning)
 ```
 
-```
-Payload (learning)
-```
