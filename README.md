@@ -13,7 +13,7 @@ if (isFirstTimeHere) {
 
 <div align="left">
 👷‍♂️ &nbsp; I’m a software engineer based in Canada.<br/>
-🏗️ &nbsp; Currently building a visual dictionary in my free time.<br/>
+🏗️ &nbsp; Currently building a design system & UI kits for mobile apps.<br/>
 📖 &nbsp; Learning about Monorepo, Supabase, and Stripe.<br />
 🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
 </div> 
@@ -38,7 +38,7 @@ Next.js
 ```
 
 ```
-Auth.js
+Better-Auth | Auth.js
 ```
 
 ```
