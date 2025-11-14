@@ -13,9 +13,9 @@ if (isFirstTimeHere) {
 
 <div align="left">
 👷‍♂️ &nbsp; I’m a software engineer based in Canada.<br/>
-🏗️ &nbsp; Currently building a design system & UI kits for mobile apps.<br/>
-📖 &nbsp; Learning about Monorepo, Supabase, and Stripe.<br />
-🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a>.<br/>
+🏗️ &nbsp; Currently building a visual dictionary.<br/>
+📖 &nbsp; Learning about AI SDK, Supabase, and Polar payment.<br />
+🤝 &nbsp; Found something in common? Connect with me via <a href="https://www.linkedin.com/in/quang-oblue/" target="blank">LinkedIn</a> or <a href="https://x.com/QuangTran304" target="blank">X (Twitter)</a>.<br/>
 </div> 
 
 
@@ -38,7 +38,7 @@ Next.js
 ```
 
 ```
-Better-Auth | Auth.js
+Better-Auth
 ```
 
 ```
@@ -113,10 +113,6 @@ Appwrite
 
 ```
 Directus
-```
-
-```
-Supabase (learning)
 ```
 
 <br />
